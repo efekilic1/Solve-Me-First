@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "typecasting", "typecasting\typecasting.csproj", "{350CFEFD-3984-4820-95EF-93FC287D7EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350CFEFD-3984-4820-95EF-93FC287D7EF1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{350CFEFD-3984-4820-95EF-93FC287D7EF1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{350CFEFD-3984-4820-95EF-93FC287D7EF1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{350CFEFD-3984-4820-95EF-93FC287D7EF1}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B2FCF8-BB5F-4318-ACC8-EA9D655F563A}
+	EndGlobalSection
+EndGlobal

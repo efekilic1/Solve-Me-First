@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/typecasting/typecasting/bin/Debug/typecasting.exe
+/Users/muhammedkilic/Projects/typecasting/typecasting/bin/Debug/typecasting.pdb
+/Users/muhammedkilic/Projects/typecasting/typecasting/obj/Debug/typecasting.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/typecasting/typecasting/obj/Debug/typecasting.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/typecasting/typecasting/obj/Debug/typecasting.exe
+/Users/muhammedkilic/Projects/typecasting/typecasting/obj/Debug/typecasting.pdb
